@@ -1,0 +1,39 @@
+.about{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: baseline;
+    max-width: 1440px;
+    background-color: rgba(241, 227, 154, 0.76);
+    height: 600px;
+}
+.about__img{
+    margin:50px 80px 0 0;
+    height: 500px;
+    width: 350px;
+    object-fit: cover;
+    opacity: 0;
+}
+.about__text{
+    display: flex;
+    flex-direction: column;
+    max-width:600px;
+    margin:100px 0 0 180px;
+    opacity: 0;
+}
+.about__title{
+    font-family: "Courier New" , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 46px;
+    color: #000000;
+}
+.about__subtitle{
+    font-family: "Courier New" , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}

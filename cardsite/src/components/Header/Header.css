@@ -1,0 +1,33 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 1440px;
+    background-image:url("../../images/IMG_9961.jpg") ;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.header__title{
+    margin: 170px 0 0;
+    font-family: "Courier New", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 80px;
+    opacity: 0;
+    color: #000000;
+}
+
+.header__text{
+    margin: 170px 0 0;
+    font-family: "Courier New" , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+    opacity: 0;
+}

@@ -1,0 +1,23 @@
+.gallery{
+    display: flex;
+    justify-content: center;
+    max-width: 1440px;
+    background-color: rgba(193, 190, 190, 0.87);
+    height: 600px;
+}
+.gallery__img-first{
+    margin-top: 100px;
+    margin-left:10px;
+    height: 400px;
+    width: 250px;
+    object-fit: cover;
+    opacity: 0;
+}
+.gallery__img-second{
+    margin-top: 100px;
+    margin-left: 10px;
+    height: 400px;
+    width: 250px;
+    object-fit: cover;
+    opacity: 0;
+}

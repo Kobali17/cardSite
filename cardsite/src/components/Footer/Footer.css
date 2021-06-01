@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    align-content: flex-end;
+    align-items: flex-end;
+    justify-content: flex-end;
+    max-width: 1440px;
+    height: 80px;
+}
+.footer__link{
+    margin:0 10px 0;
+    font-family: "Courier New" , sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 46px;
+    color: #000000;
+    text-decoration: none;
+}
+.footer__link:hover{
+    text-decoration: underline;
+}

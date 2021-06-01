@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.6aa09e95.chunk.css",
-    "main.js": "./static/js/main.80b1a6d0.chunk.js",
-    "main.js.map": "./static/js/main.80b1a6d0.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.252285ac.js",
-    "runtime-main.js.map": "./static/js/runtime-main.252285ac.js.map",
-    "static/js/2.0080df35.chunk.js": "./static/js/2.0080df35.chunk.js",
-    "static/js/2.0080df35.chunk.js.map": "./static/js/2.0080df35.chunk.js.map",
-    "index.html": "./index.html",
-    "static/css/main.6aa09e95.chunk.css.map": "./static/css/main.6aa09e95.chunk.css.map",
-    "static/js/2.0080df35.chunk.js.LICENSE.txt": "./static/js/2.0080df35.chunk.js.LICENSE.txt",
-    "static/media/IMG_1384.aff86624.jpg": "./static/media/IMG_1384.aff86624.jpg",
-    "static/media/IMG_3784.775c7129.jpg": "./static/media/IMG_3784.775c7129.jpg",
-    "static/media/IMG_7821.6ac14f49.jpg": "./static/media/IMG_7821.6ac14f49.jpg",
-    "static/media/IMG_8403 (1).5f9b9091.jpg": "./static/media/IMG_8403 (1).5f9b9091.jpg",
-    "static/media/IMG_8759.ab11728c.jpg": "./static/media/IMG_8759.ab11728c.jpg",
-    "static/media/Header.css": "./static/media/IMG_9961.8e0a2a04.jpg",
-    "static/media/a0FHwOXmpoM.109d0fff.jpg": "./static/media/a0FHwOXmpoM.109d0fff.jpg"
+    "main.css": "/cardSite/static/css/main.fba46ba7.chunk.css",
+    "main.js": "/cardSite/static/js/main.80b1a6d0.chunk.js",
+    "main.js.map": "/cardSite/static/js/main.80b1a6d0.chunk.js.map",
+    "runtime-main.js": "/cardSite/static/js/runtime-main.3810507d.js",
+    "runtime-main.js.map": "/cardSite/static/js/runtime-main.3810507d.js.map",
+    "static/js/2.0080df35.chunk.js": "/cardSite/static/js/2.0080df35.chunk.js",
+    "static/js/2.0080df35.chunk.js.map": "/cardSite/static/js/2.0080df35.chunk.js.map",
+    "index.html": "/cardSite/index.html",
+    "static/css/main.fba46ba7.chunk.css.map": "/cardSite/static/css/main.fba46ba7.chunk.css.map",
+    "static/js/2.0080df35.chunk.js.LICENSE.txt": "/cardSite/static/js/2.0080df35.chunk.js.LICENSE.txt",
+    "static/media/IMG_1384.aff86624.jpg": "/cardSite/static/media/IMG_1384.aff86624.jpg",
+    "static/media/IMG_3784.775c7129.jpg": "/cardSite/static/media/IMG_3784.775c7129.jpg",
+    "static/media/IMG_7821.6ac14f49.jpg": "/cardSite/static/media/IMG_7821.6ac14f49.jpg",
+    "static/media/IMG_8403 (1).5f9b9091.jpg": "/cardSite/static/media/IMG_8403 (1).5f9b9091.jpg",
+    "static/media/IMG_8759.ab11728c.jpg": "/cardSite/static/media/IMG_8759.ab11728c.jpg",
+    "static/media/Header.css": "/cardSite/static/media/IMG_9961.8e0a2a04.jpg",
+    "static/media/a0FHwOXmpoM.109d0fff.jpg": "/cardSite/static/media/a0FHwOXmpoM.109d0fff.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.252285ac.js",
+    "static/js/runtime-main.3810507d.js",
     "static/js/2.0080df35.chunk.js",
-    "static/css/main.6aa09e95.chunk.css",
+    "static/css/main.fba46ba7.chunk.css",
     "static/js/main.80b1a6d0.chunk.js"
   ]
 }
